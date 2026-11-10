@@ -38,7 +38,7 @@
         <!-- Dependencies -->
         <spring-boot-dependencies.version>3.1.5</spring-boot-dependencies.version>
         <spring-cloud-dependencies.version>2022.0.4</spring-cloud-dependencies.version>
-        <json.version>20231013</json.version>
+        <json.version>20260719</json.version>
         <jtokkit.version>0.6.1</jtokkit.version>
         <!-- Testing Dependencies -->
         <junit-bom.version>5.10.0</junit-bom.version>
